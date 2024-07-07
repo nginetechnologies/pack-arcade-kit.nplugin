@@ -1,0 +1,92 @@
+{
+    "guid": "6adeb3b0-aa8c-ce1e-ec15-91546fec8516",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c12798fd-89b7-ddd2-8880-e8bdc605a9b1",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "afad6638-7a2d-be0b-3ba3-659c2ce8f70a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Arcade Employee Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "60eaa5c5-95d5-aa19-2bf3-2bccd0aef867",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "d84d31b9-25e5-44f6-8b5e-ca00741886b3",
+                                "be0bce66-279a-4c2c-ae0b-5c28950a4bf6",
+                                "bca4f5c9-096e-45dd-9dfd-5323ac3df1c0"
+                            ],
+                            "jump_animations": [
+                                "41eecb07-491c-4a32-aeb8-e4bf73ca92fc",
+                                "41eecb07-491c-4a32-aeb8-e4bf73ca92fc",
+                                "41eecb07-491c-4a32-aeb8-e4bf73ca92fc"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a257edfa-396e-b8cf-21c4-66449ec28a47",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Arcade Employee Arcade Kit"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "74f43fc9-fa43-b50c-772e-0647d1282f60",
+                                "material_instance": "b44d40d8-9e82-2395-cc29-f149651a7be2"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "7222625c-76b0-2678-7282-50c3cfbf6c4f"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "6adeb3b0-aa8c-ce1e-ec15-91546fec8516"
+    },
+    "dependencies": [
+        "b44d40d8-9e82-2395-cc29-f149651a7be2",
+        "74f43fc9-fa43-b50c-772e-0647d1282f60",
+        "7222625c-76b0-2678-7282-50c3cfbf6c4f",
+        "d43d22f2-a02a-1c33-39ae-7aa1716f0d55",
+        "d84d31b9-25e5-44f6-8b5e-ca00741886b3",
+        "be0bce66-279a-4c2c-ae0b-5c28950a4bf6",
+        "bca4f5c9-096e-45dd-9dfd-5323ac3df1c0",
+        "41eecb07-491c-4a32-aeb8-e4bf73ca92fc"
+    ]
+}
