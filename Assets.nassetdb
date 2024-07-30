@@ -554,6 +554,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "78db206a-e6d3-489b-37f6-2b48d857a1c5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Arcade_Kit.scene.nasset/Wall Window Frame.mesh.nasset/Wall Window Frame Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "824b4848-a8b3-71c3-1edc-070ee68bb2e3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "7ca435e1-f075-4997-295e-d28be5709244": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Arcade_Kit.scene.nasset/Air Hockey Puck.mesh.nasset/Thumbnails/Air Hockey Puck.mesh.nasset.tex.nasset"
@@ -595,6 +607,18 @@
         ],
         "dependencies": [
             "b0d4f8f5-b779-3c21-d9a4-9f21a1cf723e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "801bab5f-8932-d778-b77e-6445a53785dc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Arcade_Kit.scene.nasset/Pinball.mesh.nasset/Pinball Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "824b4848-a8b3-71c3-1edc-070ee68bb2e3",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
